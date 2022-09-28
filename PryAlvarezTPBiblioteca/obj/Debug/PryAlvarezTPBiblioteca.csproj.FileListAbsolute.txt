@@ -1,0 +1,12 @@
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\bin\Debug\PryAlvarezTPBiblioteca.exe.config
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\bin\Debug\PryAlvarezTPBiblioteca.exe
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\bin\Debug\PryAlvarezTPBiblioteca.pdb
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.frmBiblioteca.resources
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.frmPrincipal.resources
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.exe
+C:\Users\Alumno\Source\Repos\PryAlvarezTPBiblioteca\PryAlvarezTPBiblioteca\obj\Debug\PryAlvarezTPBiblioteca.pdb
